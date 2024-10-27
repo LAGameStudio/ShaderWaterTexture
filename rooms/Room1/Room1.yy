@@ -46,8 +46,8 @@
     "PhysicsWorldPixToMetres": 0.1,
   },
   "parent": {
-    "name": "Shader - Water Texture",
-    "path": "Shader - Water Texture.yyp",
+    "name": "shd-water2",
+    "path": "shd-water2.yyp",
   },
   "resourceVersion": "1.0",
   "name": "Room1",
